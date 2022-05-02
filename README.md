@@ -2,7 +2,7 @@
 - 👀 I’m interested in React.
 - 🌱 I’m currently learning Next JS.
 - 💞️ I’m looking to collaborate on any projects.
-- 📫 How to reach me on my Github page.
+- 📫 Reach me on Github.
 
 <!---
 Jaush-M/Jaush-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
